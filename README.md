@@ -83,12 +83,3 @@ Test Automation Architecture · Risk-Based Testing · Regression Testing · Rele
 **Universidad Nacional del Sur** · Bahía Blanca, Argentina
 Software Engineering — Postgraduate Diploma in Data Science
 
----
-
-## 🌎 Languages
-
-| Language   | Level               |
-|------------|---------------------|
-| Spanish    | Native              |
-| English    | Advanced            |
-| Portuguese | Working proficiency |
